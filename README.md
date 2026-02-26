@@ -85,3 +85,5 @@ http://127.0.0.1:8000/docs
 - Clean separation of concerns
 - Dependency injection for DB session
 - Environment-based configuration
+
+Sam simon
